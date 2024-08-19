@@ -65,3 +65,7 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Solution Researcher with ex
 - Managed the end-to-end deployment of BH/BB solutions for large-scale B2B networks, improving network efficiency by 15%.
 -->
 
+## 📫 Contact Me
+
+- **Email:** [mrkouchakii@gmail.com](mailto:mrkouchakii@gmail.com)
+- **LinkedIn:** [linkedin.com/in/mohammadreza-kouchaki](https://www.linkedin.com/in/mohammadreza-kouchaki/)
