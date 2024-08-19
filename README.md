@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Mohammadreza Kouchaki 👋
 
-Welcome to my GitHub profile! I'm a passionate AI/ML Solution Researcher with extensive experience in deploying and optimizing ML models in production environments. My expertise lies in developing Kubernetes-based AI/ML containerized solutions, enhancing network resource efficiency in cloud architectures such as AWS and GCP, and applying Transformer architectures and Variational Autoencoders (VAE) for real-time anomaly detection within high-volume time-series data.
+Welcome to my GitHub profile! I'm a passionate AI/ML Solution Researcher with extensive experience in deploying and optimizing ML models in production environments. My expertise lies in developing Kubernetes-based AI/ML containerized solutions, enhancing network resource efficiency in cloud architectures such as AWS and GCP, and applying Transformer architectures and Variational Autoencoders (VAE) for Generative AI applications in  real-time anomaly detection within high-volume time-series data.
 
 ## 🚀 About Me
 
