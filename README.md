@@ -40,16 +40,17 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Solution Researcher with ex
 - **Visualization Tools:** Tableau, Plotly Dash, Grafana, Matplotlib
 - **Optimization Algorithms:** Bayesian Optimization, Genetic Algorithms, Simulated Annealing, Tabu Search, Hill Climbing
 
-## 💼 Experience
-
+## 💼 Experiences & Projects
+<!--
 ### Mississippi State University
 **Research Assistant - AI/ML Solution** (Sep 2021 - Present)
+-->
 - Developed and deployed a scalable ML testbed for DRL and Federated RL models as containerized applications on Kubernetes.
 - Built a time-series Intrusion Detection System using customized Transformer architectures and RNN Autoencoders.
 - Fine-tuned and optimized LLM models (e.g., GPT, LLaMA) through advanced prompt engineering, improving network traffic prediction accuracy by 20%.
 - Utilized CUDA/cuDNN for GPU-accelerated computing, reducing ML model training time by 30%.
 - Designed and deployed real-time ML inference dashboards using PyQt & Plotly, enhancing data-driven decision-making by 40%.
-
+<!--
 ### Etude Application Development Co.
 **Machine Learning Engineer** (Dec 2019 – Jul 2021)
 - Co-developed intelligent Android applications by implementing ML algorithms for automated quiz generation using NLP models.
@@ -58,6 +59,7 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Solution Researcher with ex
 <!--
 ### Mobinnet Telecommunication Co.
 **Optimization Engineer** (Nov 2017 – Nov 2019)
+-->
 - Led large-scale network optimization projects, reducing monthly operational costs by 10-15%.
 - Developed performance analytics dashboards in Tableau, improving decision-making processes by 20%.
 - Managed the end-to-end deployment of BH/BB solutions for large-scale B2B networks, improving network efficiency by 15%.
