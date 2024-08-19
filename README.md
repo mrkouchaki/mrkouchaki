@@ -22,8 +22,13 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Solution Researcher with ex
 
 - **Current Role:** Research Assistant - AI/ML Solutions at Mississippi State University
 - **Experience:** Over 5 years of experience in machine learning, deep learning, and network optimization
-- **Specialties:** Real-time data processing, CI/CD integration, model deployment, and generative AI applications
+- **Specialties:** Real-time data processing, ML model deployment, and generative AI applications
+- 
+## 🎓 Certifications
 
+- **AWS Certified Machine Learning – Specialty (MLS C01)** - Exp. 2027
+- **AWS Certified Solutions Architect - Associate (SAA C03)** - Exp. 2027
+- 
 ## 🛠️ Technical Skills
 
 - **Programming Languages:** Python, MATLAB, R
@@ -52,14 +57,11 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Solution Researcher with ex
 - Co-developed intelligent Android applications by implementing ML algorithms for automated quiz generation using NLP models.
 - Managed and optimized databases (PostgreSQL), ensuring high performance and scalability in data processing.
 - Collaborated with cross-functional teams to accelerate product development timelines by 15%.
-
+<!--
 ### Mobinnet Telecommunication Co.
 **Optimization Engineer** (Nov 2017 – Nov 2019)
 - Led large-scale network optimization projects, reducing monthly operational costs by 10-15%.
 - Developed performance analytics dashboards in Tableau, improving decision-making processes by 20%.
 - Managed the end-to-end deployment of BH/BB solutions for large-scale B2B networks, improving network efficiency by 15%.
+-->
 
-## 🎓 Certifications
-
-- **AWS Certified Machine Learning – Specialty (MLS C01)** - Exp. 2027
-- **AWS Certified Solutions Architect - Associate (SAA C03)** - Exp. 2027
