@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate AI/ML Solution Researcher with ex
 - **Current Role:** Research Assistant - AI/ML Solutions at Mississippi State University
 - **Experience:** Over 5 years of experience in machine learning, deep learning, and network optimization
 - **Specialties:** Real-time data processing, ML model deployment, and generative AI applications
-- 
+
 ## 🎓 Certifications
 
 - **AWS Certified Machine Learning – Specialty (MLS C01)** - Exp. 2027
