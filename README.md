@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 -->
 - Developed and deployed a scalable ML testbed for DRL and Federated RL models as containerized applications on Kubernetes.
 - Built a time-series Intrusion Detection System using customized Transformer architectures and RNN Autoencoders.
-- Fine-tuned and optimized LLM models (e.g., GPT, LLaMA) through advanced prompt engineering, improving network traffic prediction accuracy by 20%.
-- Developed a lightversion multimodal AI-powered chatbot using LLaMA models for natural language interaction and real-time CSV data analysis, integrating Hugging Face models to combine conversational AI with structured data processing.
+- Hands-on experience on Fine-tuning and optimized LLM models through prompt engineering.
+- Developed a very lightversion of multimodal AI-powered chatbot using LLaMA models for natural language interaction and CSV data analysis, integrating Hugging Face models to combine conversational AI with structured data processing.
 - Utilized CUDA/cuDNN for GPU-accelerated computing, reducing ML model training time by 30%.
 - Designed and deployed real-time ML inference dashboards using PyQt & Plotly, enhancing data-driven decision-making by 40%.
 <!--
