@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Mohammadreza Kouchaki 👋
 
-**Welcome to my GitHub profile!** I'm a passionate AI/Machine Learning researcher with expertise in designing and deploying ML/deep learning models and data science solutions for large-scale data analysis and real-time processing in production environments. Adept at building AI/ML solutions and end-to-end data pipelines on cloud platforms, specializing in predictive analytics, real-time anomaly detection, and optimization. Proficient in Transformer models, GANs, VAEs, Reinforcement Learning, and Federated Learning, with hands-on experience in network optimization, healthcare, marketing analytics, and supply chain management. Highly skilled in CI/CD integration, Python, TensorFlow, PyTorch, and cloud platforms (AWS, GCP, Azure), with a track record of improving model accuracy and business outcomes through innovative data-driven solutions.
+**Welcome to my GitHub profile!** I'm a passionate AI/Machine Learning researcher with expertise in designing and deploying ML/deep learning models and data science solutions for large-scale data analysis and real-time processing in production environments. Adept at building AI/ML solutions and end-to-end data pipelines on cloud platforms, specializing in predictive analytics, real-time anomaly detection, and optimization. Proficient in Transformer models, GANs, VAEs, Reinforcement Learning, and Federated Learning, with hands-on experience in network optimization, healthcare, marketing analytics, and supply chain management. Experienced in enhancing LLM capabilities through implementing Retrieval Augmented Generation (RAG) pipelines for context-aware solutions. Highly skilled in CI/CD integration, Python, TensorFlow, PyTorch, and cloud platforms (AWS, GCP, Azure), with a track record of improving model accuracy and business outcomes through innovative data-driven solutions.
 
 ## 🚀 About Me
 
@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 -->
 - Developed and deployed a scalable ML testbed for DRL and Federated RL models as containerized applications on Kubernetes.
 - Built a time-series Intrusion Detection System using customized Transformer architectures and RNN Autoencoders.
+- Designed and implemented a Retrieval Augmented Generation (RAG) pipeline using vector databases and LLMs for context-grounded natural language responses, focusing on medical applications.
 - Hands-on experience on Fine-tuning and optimized LLM models through prompt engineering.
 - Developed a very lightversion of multimodal AI-powered chatbot using LLaMA models for natural language interaction and CSV data analysis, integrating Hugging Face models to combine conversational AI with structured data processing.
 - Utilized CUDA/cuDNN for GPU-accelerated computing, reducing ML model training time by 30%.
