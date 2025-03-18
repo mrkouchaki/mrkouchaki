@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 
 - **AWS Certified Machine Learning – Specialty (MLS C01)** - Exp. 2027
 - **AWS Certified Solutions Architect - Associate (SAA C03)** - Exp. 2027
-- 
+- **OCI Generative AI Certified Professional(2025)-Oracle University**-Exp. 2027
+- **OCI Certified Data Science Professional(2024)-Oracle University**-Exp. 2027
+
 ## 🛠️ Technical Skills
 
 - **Programming Languages:** Python, MATLAB, R
