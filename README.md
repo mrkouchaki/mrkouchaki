@@ -54,29 +54,21 @@ Current projects include:
 
 # 🧩 Machine Learning & Engineering Stack
 
-### Programming
-Python • MATLAB
+### Programming: Python • MATLAB
 
-### Machine Learning
-Transformers • Reinforcement Learning • GANs • VAEs • RNN Autoencoders • GNNs
+### Machine Learning: Transformers • Reinforcement Learning • GANs • VAEs • RNN Autoencoders • GNNs
 
-### ML Frameworks
-PyTorch • TensorFlow • Keras • Hugging Face
+### ML Frameworks: PyTorch • TensorFlow • Keras • Hugging Face
 
-### LLM Systems
-RAG • LangChain • LangGraph • vLLM • Vector Databases (Chroma, Qdrant)
+### LLM Systems: RAG • LangChain • LangGraph • vLLM • Vector Databases (Chroma, Qdrant)
 
-### Systems & Infrastructure
-Linux • Docker • Kubernetes • CI/CD • API Development
+### Systems & Infrastructure: Linux • Docker • Kubernetes • CI/CD • API Development
 
-### Data Processing
-NumPy • Pandas • SciPy • SQL (PostgreSQL, MySQL)
+### Data Processing: NumPy • Pandas • SciPy • SQL (PostgreSQL, MySQL)
 
-### Monitoring
-Prometheus • Grafana
+### Monitoring: Prometheus • Grafana
 
-### Networking
-5G • O-RAN • IP/MPLS • SDR • Wireshark
+### Networking: 5G • O-RAN • IP/MPLS • SDR • Wireshark
 
 ---
 
