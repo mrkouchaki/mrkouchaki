@@ -12,35 +12,86 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 🌐 Links
+
+Portfolio: https://kouchaki.com  
+LinkedIn: https://www.linkedin.com/in/mohammadreza-kouchaki  
+Google Scholar: https://scholar.google.com
+
 # Hi there, I'm Mohammadreza Kouchaki 👋
 
-**Welcome to my GitHub profile!** I'm a passionate AI/Machine Learning researcher with expertise in designing and deploying ML/deep learning models and data science solutions for large-scale data analysis and real-time processing in production environments. Adept at building AI/ML solutions and end-to-end data pipelines on cloud platforms, specializing in predictive analytics, real-time anomaly detection, and optimization. Proficient in Transformer models, GANs, VAEs, Reinforcement Learning, and Federated Learning, with hands-on experience in network optimization, healthcare, marketing analytics, and supply chain management. Experienced in enhancing LLM capabilities through implementing Retrieval Augmented Generation (RAG) pipelines for context-aware solutions. Highly skilled in CI/CD integration, Python, TensorFlow, PyTorch, and cloud platforms (AWS, GCP, Azure), with a track record of improving model accuracy and business outcomes through innovative data-driven solutions.
+# Mohammadreza Kouchaki
 
-## 🚀 About Me
+AI/ML Engineer and PhD candidate building machine learning systems for **network intelligence, anomaly detection, and automated resource optimization in 5G/O-RAN environments**. My work focuses on integrating **large language models, reinforcement learning, and real-time data pipelines** to create intelligent control systems for next-generation communication networks.
 
-- **Current Role:** Research Assistant - AI/ML Solutions at Mississippi State University
-- **Experience:** Over 5 years of experience in machine learning, deep learning, and network optimization
-- **Specialties:** Real-time data processing, ML model deployment, and generative AI applications
+I design and implement **AI-driven agents, distributed ML pipelines, and anomaly detection models** that operate on high-volume network telemetry and real-time infrastructure data. My work combines **LLM-based reasoning, reinforcement learning, and time-series deep learning architectures** to enable adaptive network optimization and automated infrastructure management.
 
-## 🎓 Certifications
+---
 
-- **AWS Certified Machine Learning – Specialty (MLS C01)** - Exp. 2027
-- **AWS Certified Solutions Architect - Associate (SAA C03)** - Exp. 2027
-- **OCI Generative AI Certified Professional(2025)-Oracle University**-Exp. 2027
-- **OCI Certified Data Science Professional(2024)-Oracle University**-Exp. 2027
+# 🚀 Technical Focus
 
-## 🛠️ Technical Skills
+- **AI-driven network intelligence** for 5G/O-RAN environments
+- **LLM agents and RAG pipelines** for operational decision support
+- **Reinforcement learning systems** for dynamic resource allocation
+- **Real-time anomaly detection** for large-scale network telemetry
+- **Time-series deep learning** using Transformers, RNN autoencoders, GANs, and VAEs
+- **Distributed ML pipelines** for high-volume telemetry processing
+- **AI-enabled orchestration in Kubernetes-based network systems**
 
-- **Programming Languages:** Python, MATLAB, R
-- **Machine Learning/Deep Learning:** DNNs (CNN, RNN, LSTM), Regression Models, Reinforcement Learning
-- **Generative AI/LLM:** GANs, VAEs, Transformer Models (BERT, GPT)
-- **System Software & Containerization:** Linux (Unix Shell), Kubernetes, Docker, CI/CD (GitHub Actions, GitLab CI)
-- **Data Processing & Big Data:** NumPy, SciPy, Pandas, Spark, Kafka
-- **NLP Tools:** NLTK, spaCy
-- **Cloud Platforms:** AWS, Google Cloud Platform
-- **Database Systems:** SQL (MySQL, PostgreSQL), NoSQL (InfluxDB, Redis, MongoDB)
-- **Visualization Tools:** Tableau, Plotly Dash, Grafana, Matplotlib
-- **Optimization Algorithms:** Bayesian Optimization, Genetic Algorithms, Simulated Annealing, Tabu Search, Hill Climbing
+---
+
+# 🧠 Current Work
+
+**AI/ML Systems – Mississippi State University**
+
+Current projects include:
+
+- Building **LLM-based meta-controller agents** coordinating reinforcement learning agents for anomaly-aware network scheduling
+- Developing **real-time anomaly detection systems** for network telemetry using Transformers and RNN autoencoders
+- Implementing **reinforcement learning (PPO, A2C)** for dynamic radio resource allocation in O-RAN environments
+- Developing **RAG pipelines** using LangChain/LangGraph, vector databases, and LLM reasoning
+- Building **O-RAN performance analyzer testbeds** to evaluate AI-driven xApps and network behavior
+
+---
+
+# 🧩 Machine Learning & Engineering Stack
+
+### Programming
+Python • MATLAB
+
+### Machine Learning
+Transformers • Reinforcement Learning • GANs • VAEs • RNN Autoencoders • GNNs
+
+### ML Frameworks
+PyTorch • TensorFlow • Keras • Hugging Face
+
+### LLM Systems
+RAG • LangChain • LangGraph • vLLM • Vector Databases (Chroma, Qdrant)
+
+### Systems & Infrastructure
+Linux • Docker • Kubernetes • CI/CD • API Development
+
+### Data Processing
+NumPy • Pandas • SciPy • SQL (PostgreSQL, MySQL)
+
+### Monitoring
+Prometheus • Grafana
+
+### Networking
+5G • O-RAN • IP/MPLS • SDR • Wireshark
+
+---
+
+# 🎓 Certifications
+
+- AWS Certified Machine Learning – Specialty  
+- AWS Certified Solutions Architect – Associate  
+- Certified Kubernetes Application Developer (CKAD)  
+- OCI Generative AI Certified Professional  
+- OCI Certified Data Science Professional  
+- Cisco Certified Network Associate (CCNA)
+
+---
 
 ## 💼 Experiences & Projects
 <!--
