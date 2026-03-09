@@ -20,8 +20,6 @@ Google Scholar: https://scholar.google.com
 
 # Hi there, I'm Mohammadreza Kouchaki 👋
 
-# Mohammadreza Kouchaki
-
 AI/ML Engineer and PhD candidate building machine learning systems for **network intelligence, anomaly detection, and automated resource optimization in 5G/O-RAN environments**. My work focuses on integrating **large language models, reinforcement learning, and real-time data pipelines** to create intelligent control systems for next-generation communication networks.
 
 I design and implement **AI-driven agents, distributed ML pipelines, and anomaly detection models** that operate on high-volume network telemetry and real-time infrastructure data. My work combines **LLM-based reasoning, reinforcement learning, and time-series deep learning architectures** to enable adaptive network optimization and automated infrastructure management.
