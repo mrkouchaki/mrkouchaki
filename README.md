@@ -88,8 +88,6 @@ Current projects include:
 ### Mississippi State University
 **Research Assistant - AI/ML Solution** (Sep 2021 - Present)
 -->
-## 💼 Experience & Projects
-
 - Built an **LLM-based meta-controller agent** coordinating reinforcement learning agents for anomaly-aware network scheduling and adaptive resource allocation in O-RAN systems.
 - Developed **real-time anomaly detection models** for network telemetry using Transformers and RNN autoencoders, improving robustness through GAN/VAE synthetic time-series augmentation.
 - Implemented **reinforcement learning (PPO, A2C)** for dynamic radio resource allocation in Kubernetes-based O-RAN environments.
