@@ -20,9 +20,9 @@ Google Scholar: https://scholar.google.com
 
 # Hi there, I'm Mohammadreza Kouchaki 👋
 
-AI/ML Engineer and PhD candidate building machine learning systems for **network intelligence, anomaly detection, and automated resource optimization in 5G/O-RAN environments**. My work focuses on integrating **large language models, reinforcement learning, and real-time data pipelines** to create intelligent control systems for next-generation communication networks.
+AI/ML Engineer and Computer Science graduate building machine learning systems for **network intelligence, anomaly detection, and automated resource optimization in 5G/O-RAN environments**. My work focuses on integrating **large language models, reinforcement learning, and real-time data pipelines** to create intelligent control systems for next-generation communication networks.
 
-I design and implement **AI-driven agents, distributed ML pipelines, and anomaly detection models** that operate on high-volume network telemetry and real-time infrastructure data. My work combines **LLM-based reasoning, reinforcement learning, and time-series deep learning architectures** to enable adaptive network optimization and automated infrastructure management.
+I design and implement **AI-driven agents, ML pipelines, and anomaly detection models** that operate on high-volume network telemetry and real-time infrastructure data. My work combines **LLM-based reasoning, reinforcement learning, and time-series deep learning architectures** to enable adaptive network optimization and automated infrastructure management.
 
 ---
 
@@ -30,10 +30,10 @@ I design and implement **AI-driven agents, distributed ML pipelines, and anomaly
 
 - **AI-driven network intelligence** for 5G/O-RAN environments
 - **LLM agents and RAG pipelines** for operational decision support
-- **Reinforcement learning systems** for dynamic resource allocation
+- **Reinforcement learning systems** PPO and A2C models for dynamic resource allocation
 - **Real-time anomaly detection** for large-scale network telemetry
 - **Time-series deep learning** using Transformers, RNN autoencoders, GANs, and VAEs
-- **Distributed ML pipelines** for high-volume telemetry processing
+- **ML pipelines** for high-volume telemetry processing
 - **AI-enabled orchestration in Kubernetes-based network systems**
 
 ---
