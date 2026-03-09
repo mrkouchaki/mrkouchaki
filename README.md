@@ -88,13 +88,15 @@ Current projects include:
 ### Mississippi State University
 **Research Assistant - AI/ML Solution** (Sep 2021 - Present)
 -->
-- Developed and deployed a scalable ML testbed for DRL and Federated RL models as containerized applications on Kubernetes.
-- Built a time-series Intrusion Detection System using customized Transformer architectures and RNN Autoencoders.
-- Designed and implemented a Retrieval Augmented Generation (RAG) pipeline using vector databases and LLMs for context-grounded natural language responses, focusing on medical applications.
-- Hands-on experience on Fine-tuning and optimized LLM models through prompt engineering.
-- Developed a very lightversion of multimodal AI-powered chatbot using LLaMA models for natural language interaction and CSV data analysis, integrating Hugging Face models to combine conversational AI with structured data processing.
-- Utilized CUDA/cuDNN for GPU-accelerated computing, reducing ML model training time by 30%.
-- Designed and deployed real-time ML inference dashboards using PyQt & Plotly, enhancing data-driven decision-making by 40%.
+## 💼 Experience & Projects
+
+- Built an **LLM-based meta-controller agent** coordinating reinforcement learning agents for anomaly-aware network scheduling and adaptive resource allocation in O-RAN systems.
+- Developed **real-time anomaly detection models** for network telemetry using Transformers and RNN autoencoders, improving robustness through GAN/VAE synthetic time-series augmentation.
+- Implemented **reinforcement learning (PPO, A2C)** for dynamic radio resource allocation in Kubernetes-based O-RAN environments.
+- Built **RAG pipelines and LLM agent workflows** using LangChain/LangGraph, Hugging Face, vLLM, and vector databases (Chroma, Qdrant).
+- Designed an **O-RAN performance analyzer testbed** to evaluate AI-driven xApps and network behavior using large-scale telemetry data pipelines.
+- Implemented **multi-GPU training workflows with PyTorch and CUDA**, accelerating model training for deep learning and LLM fine-tuning tasks.
+- Developed **lightweight AI assistants and data-analysis chatbots** using LLaMA models and Hugging Face for natural language interaction with structured datasets.
 <!--
 ### Etude Application Development Co.
 **Machine Learning Engineer** (Dec 2019 – Jul 2021)
